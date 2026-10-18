@@ -1,0 +1,12 @@
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\obj\Debug\net48\CalcTests.csproj.AssemblyReference.cache
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\obj\Debug\net48\CalcTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\obj\Debug\net48\CalcTests.AssemblyInfoInputs.cache
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\obj\Debug\net48\CalcTests.AssemblyInfo.cs
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\obj\Debug\net48\CalcTests.csproj.CoreCompileInputs.cache
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\bin\Debug\net48\CalcTests.exe.config
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\bin\Debug\net48\CalcTests.exe
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\bin\Debug\net48\CalcTests.pdb
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\bin\Debug\net48\CalcClass.dll
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\obj\Debug\net48\CalcTests.csproj.Up2Date
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\obj\Debug\net48\CalcTests.exe
+C:\Users\rostik\Downloads\CalcTests (1)\CalcTests\obj\Debug\net48\CalcTests.pdb

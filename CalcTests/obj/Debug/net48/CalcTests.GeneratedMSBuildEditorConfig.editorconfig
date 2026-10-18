@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CalcTests
+build_property.ProjectDir = /Users/rostyslav/Downloads/CalcTests/CalcTests/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
